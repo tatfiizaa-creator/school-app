@@ -1,1 +1,1 @@
-#tatfiizaa-creator.github.io
+#school-app
